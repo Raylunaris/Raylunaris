@@ -5,7 +5,7 @@
 - 📚 Estudante de Desenvolvimento Full Stack Python (EBAC)
 - 🧠 Iniciando em Inteligência Artificial (Curso em Vídeo)
 - ✨ Em transição | Aprendendo e desenvolvendo
-- 🌊 Amante do silêncio, da escrita e da profundidade
+- 🌊 Amante do silêncio, da escrita e da profundidade 
 
 ---
 
@@ -19,10 +19,11 @@
 ---
 
 ### 💫 Em breve neste perfil:        
-- 📁 Projetos da EBAC     
+- 📁 Projetos da EBAC
+- 📁 Exercícios de Python 
 - 🤖 Experimentos com IA
 - 💡 HTML e CSS criativos
-- 📁 Exercícios de Python
+
 
 ---
 
@@ -33,9 +34,9 @@
 
 ### 📊Estatísticas:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raylunaris&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raylunaris&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Raylunaris&theme=onedark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raylunaris&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 ---
 
