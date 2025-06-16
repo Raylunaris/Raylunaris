@@ -1,12 +1,10 @@
-<h1 align="center">Olá, eu sou a Rayssa 🌙</h1>
-<p align="center">✨ Exploradora do universo digital — Em construção, com amor e lógica. ✨</p>
-
----
+<h1 align="center">Olá, eu sou a Rayssa 🌙</h1>    
+<p align="center">✨ Exploradora do universo digital — Em construção, com amor e lógica. ✨</p>  
 
 ### 🌱 Sobre mim:
 - 📚 Estudante de Desenvolvimento Full Stack Python (EBAC)
 - 🧠 Iniciando em Inteligência Artificial (Curso em Vídeo)
-- 💻 Em transição de carreira e apaixonada por tecnologia
+- ✨ Em transição | Aprendendo e desenvolvendo
 - 🌊 Amante do silêncio, da escrita e da profundidade
 
 ---
@@ -20,33 +18,26 @@
 
 ---
 
-### 💫 Em breve neste perfil:
-- 📁 Projetos da EBAC
+### 💫 Em breve neste perfil:        
+- 📁 Projetos da EBAC     
 - 🤖 Experimentos com IA
 - 💡 HTML e CSS criativos
 - 📁 Exercícios de Python
 
 ---
 
-### 📫 Onde me encontrar:
-- 📧 rayssakelly0@hotmail.com *(em breve LinkedIn aqui também!)*
+### 📫Conecte-se comigo:
+[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:rayssakelly0@hotmail.com)
 
+---
+
+### 📊Estatísticas:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raylunaris&show_icons=true&theme=onedark)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Raylunaris&theme=onedark)](https://git.io/streak-stats)
+  
 ---
 
 > *“Ainda não sei tudo — mas quero entender o suficiente para construir algo que faça sentido.”*
 
-
-<!--
-**Raylunaris/Raylunaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
