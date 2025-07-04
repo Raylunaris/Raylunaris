@@ -18,7 +18,7 @@
 
 ---
 
-### 💫 Em breve neste perfil:        
+### 💫 Em construção neste perfil:        
 - 📁 Projetos da EBAC
 - 📁 Exercícios de Python 
 - 🤖 Experimentos com IA
