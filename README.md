@@ -19,8 +19,8 @@
 ---
 
 ### 💫 Em construção neste perfil:        
-- 📁 EBAC Projetos|Exercícios
-- 📁 Python Exercícios|Projetos
+- 📚 EBAC Projetos | Exercícios
+- 🐍 Python Exercícios | Projetos
 - 📁 DIO | Projetos
 - 💡 HTML5 e CSS3 criativos
 
