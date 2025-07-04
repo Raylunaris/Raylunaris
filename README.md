@@ -19,10 +19,10 @@
 ---
 
 ### 💫 Em construção neste perfil:        
-- 📁 Projetos da EBAC
-- 📁 Exercícios de Python 
-- 🤖 Experimentos com IA
-- 💡 HTML e CSS criativos
+- 📁 EBAC Projetos|Exercícios
+- 📁 Python Exercícios|Projetos
+- 📁 DIO | Projetos
+- 💡 HTML5 e CSS3 criativos
 
 
 ---
