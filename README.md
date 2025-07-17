@@ -3,7 +3,6 @@
 
 ### 🌱 Sobre mim:
 - 📚 Estudante de Desenvolvimento Full Stack Python (EBAC)
-- 🧠 Iniciando em Inteligência Artificial (Curso em Vídeo)
 - ✨ Em transição | Aprendendo e desenvolvendo
 - 🌊 Amante do silêncio, da escrita e da profundidade 
 
