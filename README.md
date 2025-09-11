@@ -1,44 +1,50 @@
-<h1 align="center">Olá, eu sou a Rayssa 🌙</h1>    
-<p align="center">✨ Exploradora do universo digital — Em construção, com amor e lógica. ✨</p>  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=DBDB00"/>
 
-### 🌱 Sobre mim:
-- 📚 Estudante de Desenvolvimento Full Stack Python (EBAC)
-- ✨ Em transição | Aprendendo e desenvolvendo
-- 🌊 Amante do silêncio, da escrita e da profundidade 
+<br>
 
----
+<div align="center" width="150%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Yusei+Magic&weight=700&pause=1000&color=EC1392&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Rayssa.;Estudante+de+desenvolvimento+Full+Stack+"/>
+</div>
 
-### 🛠️ Tecnologias que estou aprendendo:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br>
+<br>
 
----
+<div align="center" style="display: inline_block"><br>
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"/>
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg"/>
+  <img  width="50" src="https://skillicons.dev/icons?i=tailwind"/>
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg"/>
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"/>
+  <img  width="50"  src="https://skillicons.dev/icons?i=python"/>
 
-### 💫 Em construção neste perfil:        
-- 📚 EBAC Projetos | Exercícios
-- 🐍 Python Exercícios | Projetos
-- 📁 DIO | Projetos
-- 💡 HTML5 e CSS3 criativos
-
-
----
-
-### 📫Conecte-se comigo:
-[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:rayssakelly0@hotmail.com)
-
----
-
-### 📊Estatísticas:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raylunaris&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raylunaris&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
----
 
-> *“Ainda não sei tudo — mas quero entender o suficiente para construir algo que faça sentido.”*
+
+</div>
+
+<br>
+<br>
+
+<div align="center">
+
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raylunaris&theme=radical) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Raylunaris&theme=radical&hide_border=true)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raylunaris&theme=radical&utcOffset=8) |
+   | :-: | :-: | :-: |
+  
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raylunaris&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raylunaris&theme=radical) |
+  | :-: | :-: |
+   
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  
+  ### 💌 Connect
+  
+  [![Static Badge](https://img.shields.io/badge/email-%23DE3163?style=for-the-badge)](mailto:rayssakelly0@hotmail.com)
+  
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=FFFF00&section=footer"/>
 
