@@ -45,7 +45,4 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=FFFF00&section=footer"/>
 
-  ![Snake animation](https://github.com/ItsRAYKA/ItsRAYKA/blob/output/github-contribution-grid-snake.svg)
-
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ItsRAYKA&repo=ItsRAYKA&theme=react)](https://github.com/ItsRAYKA/ItsRAYKA)
+  
