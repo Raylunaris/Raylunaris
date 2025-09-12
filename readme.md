@@ -1,12 +1,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=DBDB00"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+</p>
 
+<br>
 <br>
 
 <div align="center" width="150%">
   <img src="https://readme-typing-svg.herokuapp.com?font=Yusei+Magic&weight=700&pause=1000&color=EC1392&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Rayssa.;Estudante+de+desenvolvimento+Full+Stack+"/>
 </div>
 
-<br>
 <br>
 
 <div align="center" style="display: inline_block"><br>
